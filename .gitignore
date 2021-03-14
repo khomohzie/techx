@@ -1,0 +1,17 @@
+/.idea
+
+/node_modules
+/assets
+/css/bootstrap-4.5.2-dist
+/css/fontawesome-free-5.15.1-web
+/js/bootstrap-4.5.2-dist
+/js/jquery-dist
+/js/popper-dist
+
+/HTML Template/node_modules
+/HTML Template/assets
+/HTML Template/css/bootstrap-4.5.2-dist
+/HTML Template/css/fontawesome-free-5.15.1-web
+/HTML Template/js/bootstrap-4.5.2-dist
+/HTML Template/js/jquery-dist
+/HTML Template/js/popper-dist
