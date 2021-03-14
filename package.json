@@ -1,0 +1,35 @@
+{
+  "name": "techx",
+  "version": "1.0.0",
+  "description": "A mobile shopping app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run scss",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -o css/ css/sass/style.scss --watch",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khomohzie/techx.git"
+  },
+  "keywords": [
+    "php",
+    "mysql",
+    "mobile",
+    "shop",
+    "tech"
+  ],
+  "author": "Daniel Komolafe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khomohzie/techx/issues"
+  },
+  "homepage": "https://github.com/khomohzie/techx#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
